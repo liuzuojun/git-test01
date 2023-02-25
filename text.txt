@@ -1,3 +1,6 @@
 hello 
 this is a change
 branch test is change the file
+=======
+master change the file
+
